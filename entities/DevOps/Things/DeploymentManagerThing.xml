@@ -15,9 +15,9 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2019-12-12T09:54:29.420Z"
+         lastModifiedDate="2019-10-15T07:54:19.616-04:00"
          name="DeploymentManagerThing"
-         projectName="gitpro2"
+         projectName="DevOps"
          published="false"
          tags=""
          thingTemplate="GenericThing"
@@ -978,10 +978,10 @@
                 <ProjectName>
                     <Value>
                     <![CDATA[
-                    gitpro2
+                    DevOps
                     ]]>
                     </Value>
-                    <Timestamp>2019-12-12T09:19:15.020Z</Timestamp>
+                    <Timestamp>2019-10-15T07:54:11.624-04:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </ProjectName>
                 <TagSystemObjects>
@@ -990,7 +990,7 @@
                     Applications:DevOps
                     ]]>
                     </Value>
-                    <Timestamp>2019-09-11T14:03:15.282Z</Timestamp>
+                    <Timestamp>2019-09-11T10:03:15.282-04:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </TagSystemObjects>
                 <SystemObjectsPath>
@@ -999,7 +999,7 @@
                     /sysobj
                     ]]>
                     </Value>
-                    <Timestamp>2019-09-11T14:03:15.282Z</Timestamp>
+                    <Timestamp>2019-09-11T10:03:15.282-04:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </SystemObjectsPath>
                 <AppKey>
@@ -1008,7 +1008,7 @@
                     DevOpsAppKey
                     ]]>
                     </Value>
-                    <Timestamp>2019-09-11T14:03:15.283Z</Timestamp>
+                    <Timestamp>2019-09-11T10:03:15.283-04:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </AppKey>
                 <Extensions>
@@ -1032,16 +1032,16 @@
                             <Rows></Rows>
                         </infoTable>
                     </Value>
-                    <Timestamp>2019-07-18T09:33:07.349Z</Timestamp>
+                    <Timestamp>2019-07-18T05:33:07.349-04:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </Extensions>
                 <GitThingName>
                     <Value>
                     <![CDATA[
-                    gitthing2
+                    GitBackupThing
                     ]]>
                     </Value>
-                    <Timestamp>2019-12-12T09:54:24.715Z</Timestamp>
+                    <Timestamp>2019-10-15T07:54:45.315-04:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </GitThingName>
                 <PermissionsPath>
@@ -1050,7 +1050,7 @@
                     /permissions
                     ]]>
                     </Value>
-                    <Timestamp>2019-09-11T14:03:15.283Z</Timestamp>
+                    <Timestamp>2019-09-11T10:03:15.283-04:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </PermissionsPath>
                 <EntitiesPath>
@@ -1059,7 +1059,7 @@
                     /entities
                     ]]>
                     </Value>
-                    <Timestamp>2019-09-11T14:03:15.284Z</Timestamp>
+                    <Timestamp>2019-09-11T10:03:15.284-04:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </EntitiesPath>
                 <ExtensionsPath>
@@ -1068,7 +1068,7 @@
                     /extensions
                     ]]>
                     </Value>
-                    <Timestamp>2019-09-11T14:03:15.285Z</Timestamp>
+                    <Timestamp>2019-09-11T10:03:15.285-04:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </ExtensionsPath>
             </ThingProperties>
